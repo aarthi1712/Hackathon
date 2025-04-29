@@ -1,0 +1,16 @@
+{
+  "meeting_id": "meeting_2025_04_28",
+  "meeting_name": "Daily Standup",
+  "meeting_date": "2025-04-28",
+  "agenda": [
+    {"topic_name": "Project Update", "duration": 5},
+    {"topic_name": "Client Issues", "duration": 5},
+    {"topic_name": "Next Steps", "duration": 5}
+  ],
+  "transcripts": [
+    {"speaker": "John", "content": "Um, today we completed major tasks in the project."},
+    {"speaker": "Alice", "content": "You know, there were a few issues from the client yesterday."},
+    {"speaker": "Bob", "content": "Like yeah, next steps involve preparing for demo."},
+    {"speaker": "Eve", "content": "Hmm, I got new coffee."}
+  ]
+}
