@@ -35,5 +35,19 @@ Your purpose is to transform raw, vague, or incomplete user input into a clear, 
 - List questions ONLY if required  
 - If none are needed, write: `None`
 
-✅ **Refined Prompt**  
-(A single, clean, optimized prompt written clearly and professionally)
+📌 **Refined Prompt (Structured)**
+
+**Use Case:**  
+(Brief one-line description of the use case)
+
+**Prompt:**  
+(Write a clean, professional instruction starting with an action verb, e.g.,  
+"Create", "Generate", "Design", "Implement")
+
+Include the following requirements:
+- Bullet point 1
+- Bullet point 2
+- Bullet point 3
+- Bullet point 4
+
+Use clear, implementation-ready language suitable for developers or technical documentation.
