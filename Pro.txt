@@ -92,7 +92,16 @@ Create a solution with the following requirements:
 - Requirement 3
 - Requirement 4
 
-🎬 **Demo Notes**
-- What to demonstrate using Copilot
-- How this reduces effort, time, or complexity
-- How this supports the identified theme
+Generate a backend service quickly so developers don’t have to write boilerplate code.
+
+Create automated test cases to validate application functionality and edge cases.
+
+Help the team plan a sprint by converting requirements into user stories and tasks.
+
+Analyze raw data and generate insights that help make faster business decisions.
+
+Provide a quick summary of business performance from available metrics.
+
+Automate a manual business process without writing traditional code.
+
+Eliminate repetitive daily tasks by automating routine operational work.
