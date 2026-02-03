@@ -105,3 +105,27 @@ Provide a quick summary of business performance from available metrics.
 Automate a manual business process without writing traditional code.
 
 Eliminate repetitive daily tasks by automating routine operational work.
+
+Prompt Refiner Agent
+
+AI-Powered Development | Cut Coding Time by 80%
+
+Problem
+	•	Developers struggle with vague, incomplete prompts
+	•	Results in multiple iterations and wasted development time
+
+Solution
+	•	A custom Prompt Refiner agent built inside VS Code
+	•	Transforms messy inputs into clear, structured, execution-ready prompts
+
+How It Works
+	•	Understands user intent
+	•	Identifies missing requirements
+	•	Asks only essential clarifying questions
+	•	Generates a refined prompt (no solution)
+
+Impact
+	•	Better first-time AI outputs
+	•	Reduced back-and-forth with Copilot
+	•	Faster development and higher productivity
+
